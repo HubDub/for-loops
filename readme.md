@@ -1,0 +1,1 @@
+these are exercises with for-loops
